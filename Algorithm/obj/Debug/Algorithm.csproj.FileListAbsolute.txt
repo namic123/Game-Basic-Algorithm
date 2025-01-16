@@ -1,0 +1,6 @@
+C:\Users\Jay\Desktop\study\dev\game\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\Jay\Desktop\study\dev\game\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\Jay\Desktop\study\dev\game\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.AssemblyReference.cache
+C:\Users\Jay\Desktop\study\dev\game\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\study\dev\game\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\Jay\Desktop\study\dev\game\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
