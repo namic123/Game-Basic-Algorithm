@@ -9,6 +9,9 @@ namespace Algorithm
             // 콘솔에서 커서를 보이지 않게 설정 (화면 출력이 깜빡이는 현상을 방지하기 위함)
             Console.CursorVisible = false;
 
+            Board board = new Board();
+            board.Initialize();
+            
             // 1초를 30프레임으로 나눈 시간(밀리초) => 프레임 간 대기 시간
             const int WAIT_TICK = 1000 / 30;
             const char CIRCLE = '\u25cf';
